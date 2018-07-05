@@ -5,8 +5,7 @@ Dataset from statLib repository
 
 Main steps followed in the project are: 
 
-1)Looking at the big picture
-
+<b>1)Looking at the big picture
 2)Get the Data
 
 3)Discover and visualize the data to gain insights
@@ -20,6 +19,11 @@ Main steps followed in the project are:
 7)Present your solution
 
 8)Launch, monitor, and mainitain the system
+</b>
+
+
+# Technologies and Tool Used :
+
 
 
 
