@@ -26,10 +26,12 @@ Main steps followed in the project are:
 # Technologies and Tool Used :
 
 Programming Language : Python
+
 Source ditribution : Anaconda
+
 Libraries: NumPy, Pandas, SciPy
 
-packages to isntall : SciKit learn, Pandas, NumPy, SciPy
+packages to install : SciKit learn, Pandas, NumPy, SciPy
 
 
 Results :
