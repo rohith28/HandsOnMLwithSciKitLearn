@@ -23,7 +23,7 @@ Main steps followed in the project are:
 </b>
 
 
-# Technologies and Tool Used :
+## Technologies and Tool Used :
 
 Programming Language : Python
 
@@ -33,7 +33,11 @@ Libraries: NumPy, Pandas, SciPy
 
 packages to install : SciKit learn, Pandas, NumPy, SciPy
 
+## Usage
+Just run jupyter notebook in terminal and you can visit the notebook in your web browser.
 
-Results :
+Install jupyter from <a href='http://jupyter.readthedocs.io/en/latest/install.html'>here</a>
+
+## Results :
 
 The median income is the number one predictor of the housing prices
